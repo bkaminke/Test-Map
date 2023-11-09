@@ -1,3 +1,4 @@
 title: Test Map
 description: This website demonstrates how to easily publish and display an interactive map made with Folium. It features some Natural monuments near the Oder River.
 logo: Taughannock.jpg
+theme: minima
